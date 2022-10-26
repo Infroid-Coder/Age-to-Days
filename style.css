@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(224, 224, 224);
+}
+#bd{
+    width: 250px;
+    /* height: 20px; */
+    outline: none;
+    border: solid 2px rgb(0, 153, 255);
+    background: rgb(255, 255, 255);
+    padding: 6px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+#proceed{
+    color: rgb(255, 255, 255);
+    background: rgb(0, 153, 255);
+    border: none;
+    width: 200px;
+    padding: 7px;
+    border-radius: 5px;
+}
+#days{
+    color: rgb(32, 32, 32);
+    font-family: EB;
+    font-size: 17px
+}
+#ins{
+    color: rgb(126, 126, 126);
+    font-family: EB;
+    width: 300px;
+}
+#box{
+    /* width: 300px; */
+    text-align: center;
+    padding: 10px;
+    padding-top: 30px;
+    border: solid 3px rgb(0, 119, 255);
+    height: 350px;
+    border-radius: 10px;
+    display: inline-block;
+}
+#align{
+    text-align: center;
+}
